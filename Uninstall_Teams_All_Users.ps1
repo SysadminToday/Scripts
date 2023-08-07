@@ -1,4 +1,5 @@
-﻿function unInstallTeams($path) {
+# Script Developed by Rudy Mens from LazyAdmin
+ function unInstallTeams($path) {
 
   $clientInstaller = "$($path)\Update.exe"
   
